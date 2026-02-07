@@ -1,8 +1,15 @@
 # EduMind AI: End-to-End Student Performance Predictor
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Ganateja19/EduMind-AI)
+### 🌐 Live Demo
+[**Click Here to View Demo**](https://ganateja19.github.io/EduMind-AI/)
 
-> **Note:** Please refer to [Deployment Guide](deployment_guide.md) for detailed instructions on how to deploy this application to Render, Docker, or Azure. The model artifacts are now included in the repository for easier deployment.
+> **Setup Required:**
+> 1.  **Deploy Backend**: Click the "Deploy to Render" button below.
+> 2.  **Get URL**: Copy your Render URL (e.g., `https://edumind.onrender.com`).
+> 3.  **Update Frontend**: Edit `index.html` in this repo and paste the URL into `BACKEND_URL`.
+> 4.  **Enable Pages**: Go to Repo Settings > Pages > Source: `master` branch.
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Ganateja19/EduMind-AI)
 
 ![Dashboard Design](app_screenshot.png)
 
