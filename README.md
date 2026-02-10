@@ -9,8 +9,6 @@
 > 3.  **Update Frontend**: Edit `index.html` in this repo and paste the URL into `BACKEND_URL`.
 > 4.  **Enable Pages**: Go to Repo Settings > Pages > Source: `master` branch.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Ganateja19/EduMind-AI)
-
 ![Dashboard Design](app_screenshot.png)
 
 ### 🚀 Run Locally
@@ -27,7 +25,6 @@
    ```bash
    python app.py
    ```
-4. Open [http://localhost:5000](http://localhost:5000) in your browser.
 
 ## Overview
 This **End-to-End Machine Learning** application predicts student performance based on critical socio-economic and educational factors.
